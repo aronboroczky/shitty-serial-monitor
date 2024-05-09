@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serial-monitor", "serial-monitor\serial-monitor.csproj", "{301347CD-D917-491D-A256-D677557CFA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301347CD-D917-491D-A256-D677557CFA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301347CD-D917-491D-A256-D677557CFA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301347CD-D917-491D-A256-D677557CFA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301347CD-D917-491D-A256-D677557CFA70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD3C122E-2D13-4694-A583-07C350B6E763}
+	EndGlobalSection
+EndGlobal
