@@ -2,27 +2,6 @@
 
 Look no further....
 
-
-
-
-
-
-
-
-
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.....
-
-
 ### or do
+
+Ah yea, the serial port settings are in the appsettings.json
